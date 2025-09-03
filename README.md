@@ -3,6 +3,7 @@
 Data cleaning and machine learning experiments on Turkish real estate listings collected from **HepsiEmlak**.  
 This project was developed by a **10-person team** with a strong emphasis on **data preprocessing**, feature engineering, and predictive modeling for property type and price estimation.
 
+Contributors: Esma Kara, 
 ---
 
 ## 📊 Project Overview
@@ -149,11 +150,3 @@ Projede **üç temel senaryo** uygulanmıştır:
 - **Diller & Kütüphaneler:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, LightGBM  
 - **Ekip çalışması:** Versiyon kontrolü & ortak çalışma (10 kişi)  
 - **Yaklaşım:** Tekrarlamalı temizlik, özellik mühendisliği ve ML deneyleri  
-
----
-
-## 🚀 Çalıştırma
-1. Repoyu klonlayın:
-   ```bash
-   git clone https://github.com/your-username/hepsiemlak-ml-pipeline.git
-   cd hepsiemlak-ml-pipeline
