@@ -85,7 +85,6 @@ We implemented ML models in **three main scenarios**:
 
 ## 🇹🇷 Türkçe Versiyon
 
-```markdown
 # HepsiEmlak ML Pipeline
 
 **HepsiEmlak** üzerinden toplanan Türkçe emlak ilanları üzerinde veri temizleme ve makine öğrenmesi çalışmaları.  
