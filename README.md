@@ -3,7 +3,7 @@
 Data cleaning and machine learning experiments on Turkish real estate listings collected from **HepsiEmlak**.  
 This project was developed by a **10-person team** with a strong emphasis on **data preprocessing**, feature engineering, and predictive modeling for property type and price estimation.
 
-Contributors: Esma Kara, 
+Contributors: Esma Kara, Dilara Top
 ---
 
 ## 📊 Project Overview
