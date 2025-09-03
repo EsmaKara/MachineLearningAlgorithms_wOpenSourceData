@@ -35,7 +35,8 @@ The most time-consuming and critical phase of the project was **data cleaning**.
   - Created new engineered features, e.g.:
     - Distance to city center  
     - Distance to sea  
-    - Numerical floor ranking system  
+    - Numerical floor ranking system
+    - ...
   - Corrected contradictory or incorrect entries  
   - Outlier detection and adjustments  
 
@@ -113,9 +114,18 @@ Projenin en zaman alıcı ve kritik aşaması **veri temizleme** olmuştur. Adı
   Her ekip üyesi yaklaşık 7 sütun üzerinde çalışarak detaylı temizlik yaptı.  
 
 - **Veri temizleme & dönüştürme:**  
-  - Eksik veriler dolduruldu:\n    - `description` sütunundan çıkarılan bilgilerle  \n    - İlişkili sütunlardan elde edilen verilerle  \n    - Özel tahmin fonksiyonları kullanılarak  \n  - Birden fazla veri içeren sütunlar ayrılarak yeni sütunlar oluşturuldu  
+  - Eksik veriler dolduruldu:
+    - `description` sütunundan çıkarılan bilgilerle
+    - İlişkili sütunlardan elde edilen verilerle
+    - Özel tahmin fonksiyonları kullanılarak
+    - Birden fazla veri içeren sütunlar ayrılarak yeni sütunlar oluşturuldu  
   - HTML tag’leri içerisindeki faydalı veriler çıkarıldı  
-  - Yeni özellikler oluşturuldu, örn.:\n    - Merkeze uzaklık  \n    - Denize uzaklık  \n    - Kat bilgisi sayısal derecelendirme  \n  - Çelişkili ve hatalı bilgiler düzeltildi  
+  - Yeni özellikler oluşturuldu, örn.:
+    - Merkeze uzaklık
+    - Denize uzaklık
+    - Kat bilgisi sayısal derecelendirme
+    - ...
+  - Çelişkili ve hatalı bilgiler düzeltildi  
   - Aykırı değerler tespit edilerek düzenlendi  
 
 - **Encoding:**  
